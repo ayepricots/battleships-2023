@@ -1,0 +1,16 @@
+﻿  battleship.c
+C:\UOA\Part-1\ENGGEN131\C\cProject\cProject\battleship.c(371,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\UOA\Part-1\ENGGEN131\C\cProject\cProject\battleship.c(331,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  project2.c
+  task1.c
+  task2.c
+  task3.c
+  task4.c
+  task5.c
+  task6.c
+  task7.c
+  task8.c
+  task9.c
+  Generating Code...
+C:\UOA\Part-1\ENGGEN131\C\cProject\cProject\battleship.c(133): warning C4715: 'TopLeftPosition': not all control paths return a value
+  cProject.vcxproj -> C:\UOA\Part-1\ENGGEN131\C\cProject\x64\Debug\cProject.exe
